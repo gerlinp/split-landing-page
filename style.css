@@ -120,7 +120,6 @@ h1 {
     width: var(--other-width);
 }
 
-
 .hover-right .right{
     width: var(--hover-width);
 }
@@ -128,7 +127,6 @@ h1 {
 .hover-right .left{
     width: var(--other-width);
 }
-
 
 @media(max-width: 800px) {
     h1 {
